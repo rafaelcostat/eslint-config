@@ -1,11 +1,14 @@
 {
   "name": "@refa/eslint-config",
   "version": "1.0.0",
-  "description": "ESLint configuration",
+  "description": "ESLint configuration for React",
   "main": "index.js",
   "keywords": [],
   "author": "Rafael Costa",
   "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/rocketseat/eslint-config-rocketseat.git"
+  },
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=4"
