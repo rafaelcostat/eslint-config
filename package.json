@@ -1,5 +1,5 @@
 {
-  "name": "@refa/eslint-config",
+  "name": "@rafaelcostat/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration for React",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "Rafael Costa",
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/rocketseat/eslint-config-rocketseat.git"
+    "url": "git+https://github.com/rafaelcostat/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
